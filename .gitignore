@@ -11,3 +11,5 @@ venv.bak/
 # Tests
 .pytest_cache/
 test_data/
+
+.DS_Store/
